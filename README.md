@@ -48,7 +48,7 @@ Our solution is implemented in Python (and can be run in Google Colab or any Jup
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11.11
 - [pandas](https://pandas.pydata.org/)
 - [gdown](https://github.com/wkentaro/gdown) (for downloading files from Google Drive)
 
