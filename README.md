@@ -58,10 +58,6 @@ Our solution is implemented in Python (and can be run in Google Colab or any Jup
 - **Rule Merging:** Develop heuristics to merge similar rules that differ only by a minor condition, further reducing redundancy.
 - **Dynamic Thresholds:** Introduce minimal thresholds for support and confidence to filter out statistically insignificant rules.
 
-## License
-
-[Specify the license here, if applicable.]
-
 ---
 
 Feel free to reach out with any questions or suggestions for improvement.
